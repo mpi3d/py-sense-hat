@@ -2,7 +2,7 @@
 
 Petit programme en python pour le Sense Hat
 
-[Python Sense Hat](/python_sense_hat.png)
+![Python Sense Hat](/python_sense_hat.png)
 
 ## Install
 
