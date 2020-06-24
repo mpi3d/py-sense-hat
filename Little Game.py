@@ -144,13 +144,13 @@ def move_dot(event):
             'left': -1,
             'right': 1,
             }.get(event.direction, 0))
- 
+
         y = clamp(y + {
             'up': -1,
             'down': 1,
             }.get(event.direction, 0))
 
-        
+
 update_screen()
 hat.stick.direction_up = move_dot
 hat.stick.direction_down = move_dot
