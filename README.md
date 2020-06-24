@@ -1,6 +1,8 @@
 # Python_Sense_Hat
 
-Petit program en python pour le Sense Hat
+Petit programme en python pour le Sense Hat
+
+[Python Sense Hat](/python_sense_hat.png)
 
 ## Install
 
