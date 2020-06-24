@@ -78,7 +78,6 @@ while True :
     yh = 3
     raw = sense.get_compass_raw()
     a = ("{x}.{y}.{z}".format(**raw))
-    print(a)
     p,p0,r,r0,y,y0 = a.split(".")
     p3 = round(int(p) * 7 / -52)
     r3 = round(int(r) * 7 / -52)
