@@ -1,6 +1,6 @@
 # Python_Sense_Hat
 
-Petit programme en python pour le Sense Hat
+Petits programmes en python pour le Sense Hat
 
 ![Python Sense Hat](/python_sense_hat.png)
 
