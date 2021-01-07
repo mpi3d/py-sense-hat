@@ -1,20 +1,20 @@
-# Python_Sense_Hat
+# Py Sense Hat
 
 Petits programmes en python pour le Sense Hat
 
-[![Python Sense Hat](/python_sense_hat.png)](https://www.adafruit.com/product/2738)
+[![Py Sense Hat](/python_sense_hat.png)](https://www.adafruit.com/product/2738)
 
 ## Install
 
 ``` sh
-git clone https://github.com/MPi3D/Python_Sense_Hat.git
+git clone https://github.com/MPi3D/py-sense-hat.git
 ```
 
 ## Run
 
 ``` sh
-cd Python_Sense_Hat
-python3 Dice.py
-python3 "Little Game.py"
-python3 Point.py
+cd py-sense-hat
+python3 dice.py
+python3 little_game.py"
+python3 point.py
 ```
