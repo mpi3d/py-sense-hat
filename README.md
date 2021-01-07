@@ -2,7 +2,7 @@
 
 Petits programmes en python pour le Sense Hat
 
-[![Py Sense Hat](/python_sense_hat.png)](https://www.adafruit.com/product/2738)
+[![Py Sense Hat](/py_sense_hat.png)](https://www.adafruit.com/product/2738)
 
 ## Install
 
