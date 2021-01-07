@@ -15,6 +15,6 @@ git clone https://github.com/MPi3D/py-sense-hat.git
 ``` sh
 cd py-sense-hat
 python3 dice.py
-python3 little_game.py"
+python3 little_game.py
 python3 point.py
 ```
