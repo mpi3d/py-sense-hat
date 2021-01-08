@@ -12,9 +12,9 @@ X1 = random.randint(0, 7)
 Y1 = random.randint(0, 7)
 
 
-print("bonjour tout le monde")
+print("hello everyone")
 
-sense.show_message("bonjour tout le monde", text_colour = red)
+sense.show_message("hello everyone", text_colour = red)
 
 print(" ")
 print("BBBBBBBB")
@@ -108,9 +108,9 @@ time.sleep(5)
 hat.clear()
 
 print(" ")
-print("va sur le point rouge")
+print("go to the red dot")
 
-sense.show_message("va sur le point rouge", text_colour = violet)
+sense.show_message("go to the red dot", text_colour = violet)
 
 print(" ")
 print("Y = ")
@@ -130,8 +130,8 @@ def update_screen():
 
       if X1 == x :
 
-        print ("bravo")
-        sense.show_message("bravo", text_colour = violet)
+        print ("well done")
+        sense.show_message("well done", text_colour = violet)
         exit()
 
 def clamp(value, min_value=0, max_value=7):
@@ -158,7 +158,3 @@ hat.stick.direction_left = move_dot
 hat.stick.direction_right = move_dot
 hat.stick.direction_any = update_screen
 pause()
-
-
-
-
