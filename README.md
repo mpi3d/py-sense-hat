@@ -7,7 +7,7 @@ Small python programs for the Sense Hat
 ## Install
 
 ``` sh
-git clone https://github.com/MPi3D/py-sense-hat.git
+git clone https://github.com/mpi3d/py-sense-hat.git
 ```
 
 ## Run
